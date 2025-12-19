@@ -1,0 +1,50 @@
+.leaf{
+    width: 80px;
+    margin-left: 100px;
+}
+.bannerwrite{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.para{
+
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #666;
+  line-height: 1.6;
+
+
+}
+#btn{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    width: 120px;
+    height: 40px;
+}
+
+#btn:hover{
+    background-color: rgb(239, 241, 239);
+    color: green;
+    border: 1px solid    green;
+    border-radius: 15px;
+    width: 120px;
+    height: 40px;
+}
+.bannerimg{
+    width: 500px;
+    height: 500px;
+}
+.banner-flex{
+    display: flex;
+    gap: 100px;
+    margin-left: 150px;
+    margin-top: 40px;
+    
+}
+.straw{
+    width: 70px;
+    margin-top: -10px;
+}

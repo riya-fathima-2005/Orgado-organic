@@ -1,0 +1,29 @@
+.truck-flex{
+    display: flex;
+    margin-top: 50px;
+    gap: 10px;
+
+}
+.back-truck{
+    background-color: rgb(204, 221, 238);
+    height: 50px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.back-truck:hover{
+    background-color: rgb(99, 148, 99);
+    height: 50px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.total-truck-flex{
+    display: flex;
+    gap: 50px;
+    margin-left: 100px;
+}
+h6{
+ color: black;   
+}
+h6:hover{
+ color: green;
+}

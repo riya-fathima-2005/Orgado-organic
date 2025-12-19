@@ -1,0 +1,25 @@
+span{
+    margin-left: 50px;
+    color: rgb(34, 28, 28);
+    font-family: 'Poppins', sans-serif;
+font-weight: 300;
+
+ 
+}
+
+span:hover{
+
+    color: green;
+    cursor: pointer;
+    
+}
+.flex{
+    display: flex;
+   justify-content: space-between;
+   margin-right: 40px;
+}
+
+.flex9{
+    display: flex;
+    gap: 20px;
+}
