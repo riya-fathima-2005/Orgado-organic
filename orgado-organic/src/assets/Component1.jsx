@@ -1,5 +1,6 @@
 import React from "react";
 import "../assets/style/component1.css";
+
 function Component1() {
   return (
     <div>

@@ -1,13 +1,13 @@
 import React from "react";
 import "../assets/style/component3.css";
-
+import loconame  from "../assets/Img/logo.webp"
 function Component3() {
   return (
     <div>
       <div className="flex1">
         <div>
           <div>
-            <img src="../public/logo.webp" className="logo" alt="logo" />
+            <img src={loconame} className="logo" alt="logo" />
           </div>
         </div>
         <div className="flex2">
