@@ -2,7 +2,18 @@ import "../assets/style/Contactinputs.css";
 import useContactForm from "../Hooks/useContactForm";
 
 function Contactinputs() {
-  const {namee,phone,email,message,onName,onPhone,onEmail,onMessage} = useContactForm;
+ const {
+  namee,
+  phone,
+  email,
+  message,
+  onName,
+  onPhone,
+  onEmail,
+  onMessage,
+  submit
+} = useContactForm();
+
 
  
   return (

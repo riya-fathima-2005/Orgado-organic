@@ -31,7 +31,15 @@ function useContactForm() {
 
 
   return {
-
+    namee,
+    email,
+    phone,
+    message,
+    onName,
+    onEmail,
+    onPhone,
+    onMessage,
+    submit,
   };
 }
 export default useContactForm;
